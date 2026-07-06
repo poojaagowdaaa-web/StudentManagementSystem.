@@ -15,3 +15,6 @@ A core Java console application built to streamline academic administration by m
 1. Download or clone this repository to your machine.
 2. Open the project folder in any Java IDE (IntelliJ IDEA, Eclipse, or VS Code).
 3. Open `Main.java` and click **Run** to launch the interactive console interface.
+
+## 👩‍💻 Author
+Pooja Gowda
